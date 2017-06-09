@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TextDrawable</string>
+    <string name="txt_msg">This sample shows how to use TextDrawable.</string>
+</resources>
